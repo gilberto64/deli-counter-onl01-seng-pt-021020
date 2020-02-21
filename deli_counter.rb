@@ -19,6 +19,8 @@ end
   if arr2.length == 0
     puts "There is nobody waiting to be served!"
   else
+    
+    
     arr2.each {|x| puts "Currently serving #{x}."}
   end
     
