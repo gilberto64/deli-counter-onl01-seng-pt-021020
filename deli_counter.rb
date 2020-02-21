@@ -19,7 +19,7 @@ end
   if arr2.length == 0
     puts "There is nobody waiting to be served!"
   else
-    puts "Currently serving #{arr2.shift }." }
+    puts "Currently serving #{arr2.shift }." 
   end
     
   end 
